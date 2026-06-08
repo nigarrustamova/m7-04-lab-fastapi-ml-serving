@@ -1,0 +1,15 @@
+{
+  "img_001": {
+    "predictions": [
+      {
+        "label": "safe",
+        "probability": 0.99
+      }
+    ]
+  },
+  "img_002": {
+    "code": "INVALID_IMAGE",
+    "message": "Corrupt image data",
+    "request_id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11"
+  }
+}

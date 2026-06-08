@@ -1,0 +1,16 @@
+{
+  "predictions": [
+    {
+      "label": "safe",
+      "probability": 0.98
+    },
+    {
+      "label": "medical",
+      "probability": 0.01
+    },
+    {
+      "label": "racy",
+      "probability": 0.005
+    }
+  ]
+}

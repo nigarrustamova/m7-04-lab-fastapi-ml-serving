@@ -129,3 +129,9 @@ You will be reviewed on:
 - **Do your example payloads validate against your own schemas?**
 
 Design-first thinking. No frameworks, just contracts.
+
+---
+
+### Note on Examples
+The base64 strings in the examples are placeholders for images. For the purpose of validation, these are assumed to represent images within the 5 MB limit.
+
